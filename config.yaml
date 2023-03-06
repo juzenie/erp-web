@@ -1,0 +1,13 @@
+postgres:
+  host: '10.140.0.1'
+  user: 'u_pub'
+  password: 'Erp2022'
+  dbname: 'erpsme'
+  port: 5432
+mysql:
+  host: '121.43.169.69'
+  user: 'root'
+  password: '123456'
+  dbname: 'erp-server'
+  port: 3306
+
